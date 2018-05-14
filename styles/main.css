@@ -1,0 +1,30 @@
+header {text-align: center;
+justify-content: space-around;
+margin-top: auto;
+position: relative;
+align-items: center;}
+
+body
+{
+    font-family: 'Courgette', cursive;
+    color: #ffffff;
+
+  }
+
+
+#title {text-align: center;
+font-size: 2em}
+   #game
+   {
+     column-count: 3;
+     text-align: center;
+     justify-content: space-around;
+     margin-top: auto;
+     position: relative;
+     align-items: center; }
+
+     ul {
+     list-style:none;
+     margin-left:0;
+     padding-left:0;
+     }
